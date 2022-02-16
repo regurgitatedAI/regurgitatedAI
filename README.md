@@ -1,5 +1,4 @@
 ![](https://img.shields.io/github/license/regurgitatedAI/regurgitatedAI)
-![](https://komarev.com/ghpvc/?username=regurgutatedAI/regurgitatedAI&color=green)
 
 # regurgitatedAI
 
